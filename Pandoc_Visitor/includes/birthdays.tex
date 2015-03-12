@@ -1,0 +1,19 @@
+\section{ \month \  Birthdays}
+% \label{month--birthdays}
+
+We would like to say Happy Birthday to the following people in the month of  \month . Please let them know that you are thinking of them on their special day.
+
+\begin{multicols}{2}
+% \begin{compactitem}
+
+\csvreader[head to column names]{Birthdays/\month_birthdays.csv}{}%
+% {\item [\birthday] \first~\last}%
+{\birthday~ - \first~\last \\}%
+
+
+% \end{compactitem}
+\end{multicols}
+
+% the way to pull in the birthdays is to download from database
+% you then need to rename the file to month.csv i.e. June.csv
+% and then run the command birthday month (i.e. June, i.e. birthday June) from the command line. This will make a file in the '/Users/wade/Dropbox/Pandoc/Pandoc_Visitor/Birthdays/' folder. This file can be edited if there are nicknames. vi

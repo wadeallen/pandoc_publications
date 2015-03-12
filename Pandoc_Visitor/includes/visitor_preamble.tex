@@ -1,0 +1,134 @@
+\documentclass[10pt,letterpaper]{article}
+
+% Define geometry (without using the geometry package)
+
+% Call packages we'll need
+\usepackage[english]{babel}			% english
+\usepackage{graphicx}				% images
+\usepackage[hmargin=1in,vmargin=1in]{geometry}   %sets page margins
+\usepackage{amssymb,amsmath}		% math
+\usepackage{multicol}				% three-column layout
+\usepackage{url}					% clickable links
+\usepackage{marvosym}				% symbols
+\usepackage{wrapfig}				% wrapping text around figures
+\usepackage[T1]{fontenc}			% font encoding
+\usepackage{charter} 				% Charter font for main content
+\usepackage{blindtext}				% dummy text
+\usepackage{fix-cm}         % for large text sizes
+\usepackage[calcwidth]{titlesec}       %allows formatting of titles
+\usepackage[pdfpagemode=FullScreen,
+			colorlinks=false]{hyperref}	% links and pdf behaviour
+
+\usepackage{array}
+
+\usepackage{subfigure}
+
+% define colors
+
+% Colors for links, text and headings
+\usepackage[usenames,dvipsnames]{xcolor} % Allows the definition of hex colors
+
+
+% Colors for links, text and headings
+\definecolor{headings}{HTML}{333366} 
+\definecolor{lines}{HTML}{cc9933}
+
+% for tables
+\usepackage{longtable}
+
+
+%for floats
+\usepackage{float}
+
+\usepackage{parskip} %provides line breaks between paragraphs
+
+%package for spreadsheet data for birthdays
+\usepackage{csvsimple}
+
+% for sideboxes
+\usepackage{fancybox}
+
+% Customize (header and) footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lfoot{	\footnotesize 
+		Volume \volume \  Issue \issue
+	  }
+\cfoot{}
+\rfoot{\footnotesize ~ Page \thepage}
+\renewcommand{\headrulewidth}{0pt}	% bar on top of page
+\renewcommand{\footrulewidth}{0pt}	% bar on bottom of page
+
+\rhead {\footnotesize ~ \month \ \year}
+\lhead {}
+
+\fancypagestyle{plain}{%
+  \renewcommand{\footrulewidth}{0pt}%
+  \renewcommand{\headrulewidth}{0pt}%
+  \fancyhf{}%
+  \fancyfoot[L]{\footnotesize Volume \volume \  Issue \issue}%
+  \fancyfoot[R]{\footnotesize ~ Page \thepage}%
+}
+
+% for pictures
+\usepackage{caption}
+
+\hypersetup{colorlinks,breaklinks, urlcolor=linkcolor, linkcolor=linkcolor} % Set up links and colors
+
+%%% ---------------
+%%% DEFINITIONS
+%%% ---------------	
+						
+%define titles of articles
+
+% \titleformat{\section}[block]
+% {\Large\sffamily\color{headings}}
+% {}{.1em}{\bfseries}
+
+% Format of the section titles
+\titleformat{\section}[block]{\usefont{T1}{ptm}{b}{n}\Large\color{headings}}{}{.1em}{}[\vspace{-1em}\rule{\titlewidth\color{lines}}{1pt}]
+
+\titlespacing{\section}{0pt}{20pt}{5pt} % Spacing around titles
+
+%define subsections calendar entries
+\titleformat{\subsection}[runin]
+{\normalfont\bfseries}
+{}{.5em}{}[\ -- \ \ ]
+\titlespacing{\subsection}
+{\parindent}{1.5ex plus .1ex minus .2ex}{0pt}
+
+%define subsections calendar entries
+\titleformat{\subsubsection}[block]
+{\normalfont\bfseries}
+{}{.5em}{}[ ]
+\titlespacing{\subsubsection}
+{\parindent}{1.5ex plus .1ex minus .2ex}{0pt}
+
+
+%column spacing
+\setlength{\columnseprule}{0pt}
+\setlength{\columnsep}{30pt}
+
+%% for compact lists
+\usepackage{paralist}
+
+
+
+%itemize for Birthdays
+% \newenvironment{birthdays}{
+% \begin{compactitem}
+% }{\end{compactitem}}
+
+
+\usepackage{textpos}
+\usepackage{color}
+
+\input{meta.tex}
+
+% add pdf metadata
+
+\pdfinfo{ 
+ /Author (First Baptist Church Muncie Indiana) 
+ /Title (The Visitor \month \ \year) 
+ /Keywords (First Baptist Muncie, \month \ \year, newsletter, Visitor) 
+ }

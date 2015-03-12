@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{geometry}                
+\geometry{letterpaper} 
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{libertine}
+%%%% FANCY HEADER
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{}\chead{}\rhead{}
+\lfoot{\textsc{$author$}}\cfoot{}\rfoot{\textsc{$title$} | \thepage}
+\renewcommand{\headrulewidth}{0.0pt}
+
+
+%%%% SMALL SECTIONS
+\usepackage[compact,sf,small]{titlesec}
+
+
+%%%% ARTICLE INFO
+\usepackage[pdfauthor={$author$},
+    pdftitle={$title$},
+    bookmarks=false]{hyperref}
+\title{$title$}
+\author{$author$}
+%\date{$date$}
+
+\begin{document}
+\maketitle
+
+$body$
+
+\end{document}

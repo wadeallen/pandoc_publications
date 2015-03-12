@@ -1,0 +1,50 @@
+\listfiles
+\errorcontextlines=99
+\documentclass[
+notumble,
+nofoldmark,
+letterpaper,
+]{leaflet}
+
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{mathptmx}
+\usepackage[scaled=0.9]{helvet}
+\makeatletter
+\def\ptmTeX{T\kern-.1667em\lower.5ex\hbox{E}\kern-.075emX\@}
+\DeclareRobustCommand{\ptmLaTeX}{L\kern-.3em
+        {\setbox0\hbox{T}%
+         %\vb@xt@ % :-)
+         \vbox to\ht0{\hbox{%
+                            \csname S@\f@size\endcsname
+                            \fontsize\sf@size\z@
+                            \math@fontsfalse\selectfont
+                            A}%
+                      \vss}%
+        }%
+        \kern-.12em
+        \ptmTeX}
+\makeatother
+\let\TeX=\ptmTeX
+\let\LaTeX=\ptmLaTeX
+\usepackage{shortvrb}
+\MakeShortVerb{\|}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage[dvipsnames,usenames]{color}
+\definecolor{LIGHTGRAY}{gray}{.9}
+
+
+%%titles of sections
+\usepackage{titlesec}
+
+\titleformat{\section}{\center\large\bfseries}{\thesection}{}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{}{}
+
+%%%%\renewcommand{\descfont}{\normalfont}
+\newcommand\Lpack[1]{\textsf{#1}}
+\newcommand\Lclass[1]{\textsf{#1}}
+\newcommand\Lopt[1]{\texttt{#1}}
+\newcommand\Lprog[1]{\textit{#1}}
+
+\newcommand*\defaultmarker{\textsuperscript\textasteriskcentered}

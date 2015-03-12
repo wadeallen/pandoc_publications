@@ -1,0 +1,201 @@
+HOUSEHOLD_household_name,HOUSEHOLD_household_sort_name,HEAD_prefix,HEAD_first_name,HEAD_goes_by,HEAD_last_name,HEAD_date_of_birth,HEAD_title,HEAD_salutation,SPOUSE_prefix,SPOUSE_first_name,SPOUSE_goes_by,SPOUSE_last_name,SPOUSE_date_of_birth,SPOUSE_title,SPOUSE_salutation,INDIVIDUAL_title,INDIVIDUAL_salutation,INDIVIDUAL_prefix,INDIVIDUAL_last_name,INDIVIDUAL_first_name,INDIVIDUAL_goes_by,INDIVIDUAL_middle_name,INDIVIDUAL_former_name,INDIVIDUAL_suffix,INDIVIDUAL_gender,INDIVIDUAL_date_of_birth,INDIVIDUAL_marital_status,HOUSEHOLD_ADDRESS_address1,HOUSEHOLD_ADDRESS_address2,HOUSEHOLD_ADDRESS_city,HOUSEHOLD_ADDRESS_state_province,HOUSEHOLD_ADDRESS_postal_code,HOUSEHOLD_ADDRESS_country,HOUSEHOLD_ADDRESS_carrier_route,HOUSEHOLD_ADDRESS_delivery_point,HOUSEHOLD_COMMUNICATION_phone,HOUSEHOLD_COMMUNICATION_email,Address_Type_ID,INDIVIDUAL_HOUSEHOLD_household_id,INDIVIDUAL_HOUSEHOLD_individual_id,Preferred_Email,Preferred_Phone
+Wade and Christy Allen,Allen,,Wade,,Allen,3/21/1973,,,,Christy,,Allen,2/27/1971,,,,,,,,,,,,,,,9409 Rachel Drive,,Yorktown,IN,47396,US,,,(765) 760-1520,wadechristy@gmail.com,1,14620380,,(765) 760-1520,wadechristy@gmail.com
+Anna Allen,Allen,,Wade,,Allen,3/21/1973,,,,Christy,,Allen,2/27/1971,,,,,,,,,,,,,,,9409 Rachel Drive,,Yorktown,IN,47396,US,,,(765) 760-1520,wadechristy@gmail.com,1,14620380,,(765) 760-1520,wadechristy@gmail.com
+Dawson Allen,Allen,,Wade,,Allen,3/21/1973,,,,Christy,,Allen,2/27/1971,,,,,,,,,,,,,,,9409 Rachel Drive,,Yorktown,IN,47396,US,,,(765) 760-1520,wadechristy@gmail.com,1,14620380,,(765) 760-1520,wadechristy@gmail.com
+Levi Allen,Allen,,Wade,,Allen,3/21/1973,,,,Christy,,Allen,2/27/1971,,,,,,,,,,,,,,,9409 Rachel Drive,,Yorktown,IN,47396,US,,,(765) 760-1520,wadechristy@gmail.com,1,14620380,,(765) 760-1520,wadechristy@gmail.com
+Coby and Emily Anderson,Anderson,,Coby,,Anderson,7/31/1974,,,,Emily,,Anderson,,,,,,,,,,,,,,,,301 E Henry St,,Farmland,IN,47340-7007,US,,,,,1,15401297,,,
+Off Broadway Antique Mall,Antique Mall,,Off Broadway,,Antique Mall,,,,,,,,,,,,,,,,,,,,,,,2404 North MLK Blvd,,Muncie,IN,47303,US,,,,,1,27362728,,,
+Janet Armstrong,Armstrong,,Janet,Jan,Armstrong,3/24/1931,,,,,,,,,,,,,,,,,,,,,,8201 W Adaline St,,Yorktown,IN,47396-1405,US,,,,,1,35097400,,,
+Florence Arnold,Arnold,,Florence,,Arnold,2/4/1918,,,,,,,,,,,,,,,,,,,,,,5801 W Bethel Ave,,Muncie,IN,47304-9499,US,,,765-288-0776,,1,14630435,,765-288-0776,
+Betty Arthur,Arthur,,Frank,,Arthur,2/7/1923,,,,Betty,,Arthur,6/6/1927,,,,,,,,,,,,,,,5110 W Churchill Ct,,Muncie,IN,47304-5323,US,,,765-282-6564,,1,14630366,,765-282-6564,
+Anette Atterson,Atterson,,Anette,,Atterson,6/11/1959,,,,,,,,,,,,,,,,,,,,,,2117 W Main St,,Muncie,IN,47303-4702,US,,,765-287-8210,,1,14630565,,765-287-8210,
+Pamela Barnhouse,Barnhouse,,Pamela,Pam,Barnhouse,11/12/1958,,,,,,,,,,,,,,,,,,,,,,216 N Leland Ave,,Muncie,IN,47303-4155,US,,,765-716-2503,,1,14630592,,765-716-2503,
+Josh and Heather Barr,Barr,,Josh,,Barr,12/26/1982,,,,Heather,,Barr,6/8/1983,,,,,,,,,,,,,,,3113 W Torquay Rd,,Muncie,IN,47304-3234,US,,,765-425-8233 ,heatherbarr@rocketmail.com,1,32521067,,765-425-8233 ,heatherbarr@rocketmail.com
+Ray and Mary Anne Bayer,Bayer,,Ray,,Bayer,3/13/1940,,,,Mary Anne,,Bayer,8/31/1944,,,,,,,,,,,,,,,3405 W Merrywood Ln,,Muncie,IN,47302-9479,US,,,765-289-5593,mabayer65@aol.com,1,14630598,,765-289-5593,mabayer65@aol.com
+Jared Bishop,Bishop,,Jared,,Bishop,,,,,,,,,,,,,,,,,,,,,,,2500 N Wheeling Ave,Apt 2C,Muncie,IN,47303-1639,US,,,,,1,32807484,,,
+Baylee Blankenbaker,Blankenbaker,,,,,,,,,,,,,,,,,,,,,,,,,,,2313 S Walnut St,,Yorktown,IN,47396-1232,US,,,(765) 722-1265,,1,24232305,,(765) 722-1265,
+Daniel Bouton and Danyalle Nealy,Bouton,,Daniel,,Bouton,5/7/1979,,,,Danyalle,,Nealy,10/29/1980,,,,,,,,,,,,,,,2205 W Sherman Dr,,Muncie,IN,47304-2173,US,,,,,1,14671556,,,
+Scott and Jo Boyce,Boyce,,Scott,,Boyce,,,,,Jo,,Boyce,2/20/1956,,,,,,,,,,,,,,,4221 W Warren Way,,Muncie,IN,47304-6034,US,,,765-289-2559,jarwb13@comcast.net,1,14630639,,765-289-2559,jarwb13@comcast.net
+Charles Bradbury,Bradbury,,,,,,,,,,,,,,,,,,,,,,,,,,,6311 S Overlook Dr,,Daleville,IN,47334-9342,US,,,765-378-7790,,1,15799348,,765-378-7790,
+Casey and Katie Braswell,Braswell,,Casey,,Braswell,6/8/1981,,,,Katie,,Braswell,11/11/1987,,,,,,,,,,,,,,,19121 N 550 E,,Dunkirk,IN,47336-9267,US,,,(615) 430-9890,kbraswell1187@yahoo.com,1,23761800,,(615) 430-9890,kbraswell1187@yahoo.com
+Diane Brooks,Brooks,,Diane,,Brooks,6/1/1960,,,,,,,,,,,,,,,,,,,,,,403 S Walnut St,,Mount Pleasant,IA,52641-2305,US,,,765-717-4298,dlbrooks1960@gmail.com ,1,25688927,,765-717-4298,dlbrooks1960@gmail.com 
+Betty Brown,Brown,,Betty,,Brown,7/9/1931,,,,Bob,,Brown,9/30/1928,,,,,,,,,,,,,,,804 N Meadow Wood Dr,,Muncie,IN,47304-9351,US,,,765-747-6007,bettybobbrown@comcast.net,1,14630693,,765-747-6007,bettybobbrown@comcast.net
+Lester Bryars,Bryars,,Lester,,Bryars,1/18/1974,,,,,,,,,,,,,,,,,,,,,,1120 S Jefferson St,,Muncie,IN,47302-3351,US,,,,,1,14630703,,,
+Bethany Burget,Burget,,Bethany,,Burget,,,,,,,,,,,,,,,,,,,,,,,1301 N Walnut St,,Muncie,IN,47303-2909,US,,,765-289-3743,r_dburget@att.net,1,30160386,,765-289-3743,r_dburget@att.net
+David and Stephanie Burns,Burns,,David,,Burns,,,,,Stephanie,,Burns,,,,,,,,,,,,,,,,857 W Vine St,,Albany,IN,47320-1524,US,,,,,1,14977625,,,
+Robert and Lydia Burton,Burton,,Robert,,Burton,4/16/1942,,,,Lydia,,Burton,10/15/1942,,,,,,,,,,,,,,,1401 N Briar Rd,,Muncie,IN,47304-3049,US,,,765-282-8227,burtonrh@Juno.com,1,14630743,,765-282-8227,burtonrh@Juno.com
+Gene Carr,Carr,,Gene,,Carr,1/25/1924,,,,Mary,,Carr,10/24/1930,,,,,,,,,,,,,,,6100 W Taylor Rd,,Muncie,IN,47304-4768,US,,,765-282-4606,,1,14630803,,765-282-4606,
+Christian and Hijinia Chamboneth,Chamboneth,,Christian,,Chamboneth,3/27/1982,,,,Hijinia,,Chamboneth,2/24/1984,,,,,,,,,,,,,,,2905 N Elgin St,Apt 3,Muncie,IN,47303-6020,US,,,765-215-9605,,1,14630861,,765-215-9605,
+Betty Clark,Clark,,Betty,,Clark,11/14/1923,,,,,,,,,,,,,,,,,,,,,,4904 W Elmview Ct,,Muncie,IN,47302-8951,US,,,765-282-6559,,1,14630884,,765-282-6559,
+Dave and Heather Clawson,Clawson,,Dave,,Clawson,,,,,Heather,,Clawson,,,,,,,,,,,,,,,,2120 W County Road 1000 N,,Muncie,IN,47303-9745,US,,,765-396-9427,tuckergibbs@yahoo.com,1,15198304,,765-396-9427,tuckergibbs@yahoo.com
+Mark and Amy Clevenger,Clevenger,,Mark,,Clevenger,,,,,Amy,,Clevenger,,,,,,,,,,,,,,,,10801 E Jackson St,,Selma,IN,47383-9532,US,,,,,1,14732972,,,
+Ray Conley,Conley,,Ray,,Conley,4/30/1962,,,,Vicki,,Conley,10/29/1958,,,,,,,,,,,,,,,1608 N Thorn Tree Rd,,Muncie,IN,47304-9710,US,,,,pconley01@comcast.net,1,14630224,,,pconley01@comcast.net
+Kayla Cooper,Cooper,,,,,,,,,,,,,,,,,,,,,,,,,,,2101 N Carrolton Dr,,Muncie,IN,47304-9604,US,,,(765) 716-7307,,1,24232319,,(765) 716-7307,
+Brenda Cox,Cox,,Brenda,,Cox,2/14/1958,,,,,,,,,,,,,,,,,,,,,,8513 W Lone Beech Dr,,Muncie,IN,47304-9366,US,,,765-759-6150,,1,32523037,,765-759-6150,
+Lois Craig,Craig,,Lois,,Craig,5/21/1928,,,,,,,,,,,,,,,,,,,,,,3654 N 1100 W,,Linton,IN,47441-5044,US,,,765-284-8325,,1,14630902,,765-284-8325,
+Josh and Megan Crawford,Crawford,,Josh,,Crawford,,,,,Megan,,Crawford,,,,,,,,,,,,,,,,203 3rd St.,,Parker City,IN,47368,US,,,765-744-9586,,1,14978962,,765-744-9586,
+Terry and Lisa Criswell,Criswell,,Terry,,Criswell,11/19/1964,,,,Lisa,,Criswell,7/6/1968,,,,,,,,,,,,,,,3009 Waterford Ln,,Muncie,IN,47304-9228,US,,,765-747-7034,lcriswel@maxoncorp.com,1,14745136,,765-747-7034,lcriswel@maxoncorp.com
+David and Joyce Cross,Cross,,David,,Cross,6/12/1947,,,,Joyce,,Cross,6/21/1946,,,,,,,,,,,,,,,10740 W State Road 32,,Parker City,IN,47368-9307,US,,,765-468-7180,lilavid@aol.com,1,14630916,,765-468-7180,lilavid@aol.com
+Tyler and Bethany Cummins,Cummins,,Tyler,,Cummins,9/24/1985,,,,Bethany,,Cummins,11/17/1987,,,,,,,,,,,,,,,1808 W Adams St,,Muncie,IN,47303-4827,US,,,765-744-7280,,1,22907124,,765-744-7280,
+Clifton and Julie Davis,Davis,,Clifton,,Davis,5/8/1968,,,,Julie,,Davis,6/13/1972,,,,,,,,,,,,,,,1032 Walnut Creek Ln,,Gas City,IN,46933-1497,US,,,765-382-0420,cadavis6@bsu.edu,1,39060770,,765-382-0420,cadavis6@bsu.edu
+Duane and Dana Davis,Davis,,Duane,,Davis,5/5/1938,,,,Dana,,Davis,8/21/1940,,,,,,,,,,,,,,,5300 W Co. Rd. 800 North,,Gaston,IN,47342-9802,US,,,765-358-3911,twoddavis@aol.com,1,14630945,,765-358-3911,twoddavis@aol.com
+Heather Davis,Davis,,Heather,,Davis,,,,,,,,,,,,,,,,,,,,,,,2121 Lilac Ln,Apt 1G,Aurora,IL,60506-1785,US,,,765-212-0336,,1,14960176,,765-212-0336,
+Andrew and Dawn Dawson,Dawson,,Andrew,,Dawson,3/9/1985,,,,Dawn,,Dawson,6/11/1987,,,,,,,,,,,,,,,2312 W Sun Valley Pkwy,,Muncie,IN,47303-9046,US,,,,,1,38298718,,,
+Will Drumright,Drumright,,Will,,Drumright,9/13/1988,,,,,,,,,,,,,,,,,,,,,,13341 Baden Dr,Unit 101,Fishers,IN,46037-7738,US,,,615-604-7393,,1,24129529,,615-604-7393,
+Mark Dunn,Dunn,,Mark,,Dunn,,,,,,,,,,,,,,,,,,,,,,,925 E 22nd St PO Box 217,,Muncie,IN,47308-0217,US,,,765-749-3620,,1,19230092,,765-749-3620,
+Jennifer Durke,Durke,,,,,,,,,Jennifer,,Durke,,,,,,,,,,,,,,,,1201 S Pittenger Rd,,Selma,IN,47383-9575,US,,,765-288-8350,JennRN0917@aol.com,1,15799337,,765-288-8350,JennRN0917@aol.com
+David and Lisa Earls,Earls,,David,Dave,Earls,4/7/1969,,,,Lisa,,Earls,3/14/1971,,,,,,,,,,,,,,,2313 E Delta Dr,,Muncie,IN,47303-9570,US,,,765-281-8803,roseyearls@comcast.net,1,18043984,,765-281-8803,roseyearls@comcast.net
+Glen and Sarah Egly,Egly,,Glen,,Egly,,,,,Sarah,,Egly,10/6/1970,,,,,,,,,,,,,,,702 W Harvard Ave,,Muncie,IN,47304-1919,US,,,765-282-3948,,1,19881305,,765-282-3948,
+William and Barbara Eidson,Eidson,,William,Bill,Eidson,12/11/1936,,,,Barbara,Barb,Eidson,7/11/1937,,,,,,,,,,,,,,,4404 W Beechwood Ave,,Muncie,IN,47304-3639,US,,,765-284-4825,bnbeidson@yahoo.com,1,14630997,,765-284-4825,bnbeidson@yahoo.com
+Kendra Ervin,Ervin,,Kendra,,Ervin,4/21/1975,,,,,,,,,,,,,,,,,,,,,,3906 N Virginia Ave,,Muncie,IN,47304-1549,US,,,765-744-2161,,1,19881229,,765-744-2161,
+Adam and Jessica Fink,Fink,,Adam,,Fink,3/21/1984,,,,Jessica,,Fink,6/20/1985,,,,,,,,,,,,,,,330 N Main St,,Parker City,IN,47368-9546,US,,,765-894-3798,,1,14631014,,765-894-3798,
+Dennis Fiscus,Fiscus,,Dennis,,Fiscus,,,,,,,,,,,,,,,,,,,,,,,539 Randolph St,,Parker City,IN,47396,US,,,,,1,20456832,,,
+Katie Fisher,Fisher,,,,,,,,,,,,,,,,,,,,,,,,,,,3809 N Louis Ct,,Muncie,IN,47304-1725,US,,,765-760-3596,,1,15799317,,765-760-3596,
+Dick and Cheryl Flaherty,Flaherty,,Dick,,Flaherty,11/25/1946,,,,Cheryl,,Flaherty,,,,,,,,,,,,,,,,Box 111,,Mt Summit,IN,47361,US,,,765-208-8619,,1,14631032,,765-208-8619,
+Mark and Molly Flodder,Flodder,,Mark,,Flodder,,,,,Molly,,Flodder,5/16/1950,,,,,,,,,,,,,,,5921 E Inlow Springs Rd,,Muncie,IN,47302-9022,US,,,765-282-0657,flodder@comcast.net,1,14631074,,765-282-0657,flodder@comcast.net
+Edith Ford,Ford,,Edith,,Ford,9/5/1931,,,,,,,,,,,,,,,,,,,,,,919 W Parkway Dr,,Muncie,IN,47304-5132,US,,,765-748-0534,,1,14631087,,765-748-0534,
+Larry and Donna Fouch,Fouch,,Larry,,Fouch,7/31/1948,,,,Donna,,Fouch,10/20/1949,,,,,,,,,,,,,,,8470 N County Road 450 E,,Albany,IN,47320-9201,US,,,765-289-5029,ldfouch@ballstate.bsu.edu,1,14631101,,765-289-5029,ldfouch@ballstate.bsu.edu
+Mitchell and Meagan Fountain,Fountain,,Mitchell,,Fountain,5/7/1982,,,,Meagan,,Fountain,9/17/1983,,,,,,,,,,,,,,,2509 N Maplewood Ave,,Muncie,IN,47304-2354,US,,,317-517-1181,mah02@icloud.com,1,35858593,,317-517-1181,mah02@icloud.com
+Sharon Fowler,Fowler,,Sharon,,Fowler,,,,,,,,,,,,,,,,,,,,,,,13500 N Summerhill Dr,,Albany,IN,47320-8956,US,,,765-789-6583,,1,14977574,,765-789-6583,
+Cathy France,France,,Cathy,,France,,,,,,,,,,,,,,,,,,,,,,,3508 W. Riverside Ave,,Muncie,IN,47304,US,,,765-896-9139,,1,17467985,,765-896-9139,
+Billie Frogge,Frogge,,Billie,,Frogge,4/25/1931,,,,,,,,,,,,,,,,,,,,,,3211 S Elm St,,Muncie,IN,47302-5637,US,,,765-284-8875,,1,14669967,,765-284-8875,
+Virgil Fry,Fry,,Virgil,,Fry,,,,,,,,,,,,,,,,,,,,,,,Morrison Woods Health Campus,4100 N. Morrison Road,Muncie,IN,47304,US,,,765-381-0720,,1,17467981,,765-381-0720,
+Karen Garringer,Garringer,,Karen,,Garringer,,,,,,,,,,,,,,,,,,,,,,,205 E 27th St,,Muncie,IN,47302-5614,US,,,765-288-2535,,1,21572097,,765-288-2535,
+Harold Gill,Gill,,Harold,,Gill,12/20/1932,,,,Virginia,,Gill,3/6/1938,,,,,,,,,,,,,,,2608 N Pauline Ave,,Muncie,IN,47303-5378,US,,,765-288-9423  ,,1,14733092,,765-288-9423  ,
+Gregory and Emily Goul,Goul,,Gregory,,Goul,,,,,Emily,,Goul,7/21/1978,,,,,,,,,,,,,,,5000 N Lost Ln,,Muncie,IN,47304-5703,US,,,765-747-8557,,1,14670060,,765-747-8557,
+Michael and Melanie Graham,Graham,,Michael,,Graham,6/1/1969,,,,Melanie,,Graham,2/16/1974,,,,,,,,,,,,,,,5504 W Keller Rd,,Muncie,IN,47304-8946,US,,,765-722-0302,,1,29481329,,765-722-0302,
+James and Shanna Greer,Greer,,James,,Greer,,,,,Shanna,,Greer,,,,,,,,,,,,,,,,4336 W Woods Edge Ln,,Muncie,IN,47304-6086,US,,,,,1,27362749,,,
+Doug and Debbie Gregg,Gregg,,Doug,,Gregg,7/29/1953,,,,Debbie,,Gregg,10/11/1953,,,,,,,,,,,,,,,7308 W Saint Andrews Ave,,Yorktown,IN,47396-9695,US,,,,debrajgregg@comcast.net,1,14670088,,,debrajgregg@comcast.net
+Nancy Hall,Hall,,Nancy,,Hall,9/1/1953,,,,,,,,,,,,,,,,,,,,,,400 E Willard St,,Muncie,IN,47302-3469,US,,,765-254-1660,,1,30485948,,765-254-1660,
+Terry and Carolyn Harke,Harke,,Terry,,Harke,5/6/1944,,,,Carolyn,,Harke,8/29/1942,,,,,,,,,,,,,,,2124 N Roxbury Ln,,Muncie,IN,47304-9570,US,,,765-284-2852,clhtrh@yahoo.com,1,14670107,,765-284-2852,clhtrh@yahoo.com
+Jamie and Shelby Harris,Harris,,Jamie,,Harris,11/30/1976,,,,Shelby,,Harris,6/26/1981,,,,,,,,,,,,,,,7000 S Cowan Rd,,Muncie,IN,47302-8693,US,,,,,1,32523019,,,
+Mary Harry,Harry,,Mary,,Harry,,,,,,,,,,,,,,,,,,,,,,,7800 S County Road 400 W,,Muncie,IN,47302-8104,US,,,765-759-6617,,1,17467996,,765-759-6617,
+Bob and Vicki Hartley,Hartley,,Bob,,Hartley,,,,,Vicki,,Hartley,,,,,,,,,,,,,,,,5209 N Austin Dr,,Muncie,IN,47304-5916,US,,,765-749-2670,,1,26778812,,765-749-2670,
+Rodney and Louise Head,Head,,Rodney,,Head,12/31/1932,,,,Louise,,Head,3/15/1939,,,,,,,,,,,,,,,324 S Schroeder Rd,,Muncie,IN,47304-4467,US,,,765-282-9346,,1,14670319,,765-282-9346,
+Ward Head,Head,,Ward,,Head,7/6/1962,,,,,,,,,,,,,,,,,,,,,,324 S Schroeder Rd,,Muncie,IN,47304-4467,US,,,765-282-9346,rodneyhead@att.net,1,15808607,,765-282-9346,rodneyhead@att.net
+Matthew and Heather Headley,Headley,,Matthew,,Headley,5/6/1984,,,,Heather,,Headley,3/29/1986,,,,,,,,,,,,,,,713 Timber Way,,Weaver,AL,36277-4336,US,,,765-405-0536,,1,15309618,,765-405-0536,
+Helen Heath,Heath,,Helen,,Heath,9/11/1926,,,,,,,,,,,,,,,,,,,,,,3104 W Cypress Dr,,Muncie,IN,47304-5745,US,,,765-284-1246,,1,14670385,,765-284-1246,
+Tom and Carolyn Hemminger,Hemminger,,Tom,,Hemminger,,,,,Carolyn,,Hemminger,,,,,,,,,,,,,,,,4317  W Friar Dr,,Muncie,IN,47304,US,,,765-288-3161,,1,17468088,,765-288-3161,
+Elnora Henderson,Henderson,,Elnora,,Henderson,,,,,,,,,,,,,,,,,,,,,,,1318 N Bay Dr,,Lynnhaven,FL,32444-3206,US,,,,,1,17468065,,,
+Gary and Cathy Henderson,Henderson,,Gary,,Henderson,2/11/1953,,,,Cathy,,Henderson,9/8/1955,,,,,,,,,,,,,,,533 Foster,,Albany ,IN,47320,US,,,765-789-6021,,1,14670407,,765-789-6021,
+Shari Hershey,Hershey,,Shari,,Hershey,,,,,,,,,,,,,,,,,,,,,,,5012 W Quail Ridge Dr,,Muncie,IN,47304-4074,US,,,,shari.hershey@gmail.com,1,23812133,,,shari.hershey@gmail.com
+Troy and Cindy Hershman,Hershman,,Troy,,Hershman,5/4/1969,,,,Cindy,,Hershman,3/24/1971,,,,,,,,,,,,,,,1469 E 600 N,,New Castle,IN,47362,US,,,765-254-1656,tchersh@gmail.com,1,15043000,,765-254-1656,tchersh@gmail.com
+Jim and Irene Hiatt,Hiatt,,Jim,,Hiatt,6/16/1951,,,,Irene,,Hiatt,8/13/1949,,,,,,,,,,,,,,,2305 W Village Dr,,Muncie,IN,47304-1765,US,,,765-286-0012,hiatt.jim@att.net,1,14670450,,765-286-0012,hiatt.jim@att.net
+Gerri Hildreth,Hildreth,,Gerri,,Hildreth,,,,,,,,,,,,,,,,,,,,,,,904 Westchester Park,,Yorktown,IN,47396,US,,,,,1,14859733,,,
+Chris and Darlene Hill,Hill,,Chris,,Hill,8/16/1949,,,,Darlene,,Hill,11/18/1952,,,,,,,,,,,,,,,4708 N Saint James Dr,,Muncie,IN,47304-6205,US,,,765-747-9312,dmhill_47304@yahoo.com,1,14670479,,765-747-9312,dmhill_47304@yahoo.com
+Duane Hobley,Hobley,,Duane,,Hobley,,,,,,,,,,,,,,,,,,,,,,,1118 N Meadow Ln,,Muncie,IN,47304,US,,,765-289-9358,,1,17468002,,765-289-9358,
+Betty Howell,Howell,,Betty,,Howell,,,,,,,,,,,,,,,,,,,,,,,Elm Croft 1601 N Morrison Rd,,Muncie,IN,47304-5329,US,,,765-289-4260,,1,26095760,,765-289-4260,
+Harry Irwin,Irwin,,Harry,,Irwin,9/2/1927,,,,Jackie,,Irwin,5/1/1927,,,,,,,,,,,,,,,3013 E Oaklawn Dr,,Muncie,IN,47303-9402,US,,,765-284-0752,harr_jacq@hotmail.com,1,14670522,,765-284-0752,harr_jacq@hotmail.com
+Vernon and Sharon Jackson,Jackson,,Vernon,,Jackson,,,,,Sharon,,Jackson,1/21/1946,,,,,,,,,,,,,,,2905 E Royerton Rd,,Muncie,IN,47303-9560,US,,,,sharonkjs1@hotmail.com,1,14670599,,,sharonkjs1@hotmail.com
+Nova Jarvis,Jarvis,,Howard,,Jarvis,2/2/1924,,,,Nova,,Jarvis,8/27/1929,,,,,,,,,,,,,,,9100 S US 35,,Muncie,IN,47302,US,,,765-774-4300,,1,14670631,,765-774-4300,
+Don and Phyllis Jennings,Jennings,,Don,,Jennings,8/7/1928,,,,Phyllis,,Jennings,5/13/1928,,,,,,,,,,,,,,,6600 N Brenda Ln,,Muncie,IN,47304-9063,US,,,765-284-8385,,1,14670652,,765-284-8385,
+Joseph and Shirley Johnson,Johnson,,Joseph,Joe,Johnson,2/23/1940,,,,Shirley,,Johnson,12/4/1940,,,,,,,,,,,,,,,2710 W Petty Rd,,Muncie,IN,47304-3082,US,,,765-284-3548,,1,14670672,,765-284-3548,
+Dale and Jean Jones,Jones,,Dale,,Jones,1/10/1936,,,,Jean,,Jones,12/25/1933,,,,,,,,,,,,,,,5104 W Preakness Ct,,Muncie,IN,47304-5327,US,,,765-288-2170,,1,14670707,,765-288-2170,
+David Jones and Betsy Whaley,Jones,,David,,Jones,12/13/1963,,,,Betsy,,Whaley,2/10/1963,,,,,,,,,,,,,,,1531 Shannon Ave,,Indianapolis,IN,46201-1746,US,,,,david@bsuoasis.org,1,14670753,,,david@bsuoasis.org
+Jeff and Sally Jones,Jones,,Jeff,,Jones,2/4/1954,,,,Sally,,Jones,6/24/1959,,,,,,,,,,,,,,,1608 W 6th St,,Muncie,IN,47302-2100,US,,,,betsy2wetsy@aol.com,1,14670797,,,betsy2wetsy@aol.com
+Thelma Jones,Jones,,Thelma,,Jones,11/23/1922,,,,,,,,,,,,,,,,,,,,,,1808 W 11th St,,Muncie,IN,47302-6613,US,,,765-288-4830,,1,14670774,,765-288-4830,
+James and Jan Jordan,Jordan,,James,,Jordan,,,,,Jan,,Jordan,,,,,,,,,,,,,,,,3004 W Palisades Pkwy,,Muncie,IN,47303-9300,US,,,7865-212-2166,,1,14977594,,7865-212-2166,
+Katy Kessler,Kessler,,Katy,,Kessler,,,,,,,,,,,,,,,,,,,,,,,160 Hadley Woodland St,,Mooresville,IN,46158-1267,US,,,,,1,24739080,,,
+Brian and Julie King,King,,Brian,,King,,,,,Julie,,King,,,,,,,,,,,,,,,,1075 Broad Ripple Ave,,Indianapolis,IN,46220-2034,US,,,,,8,39198159,,,
+Robert and Julie Kirklin,Kirklin,,Robert,,Kirklin,12/30/1946,,,,Julie,,Kirklin,3/13/1958,,,,,,,,,,,,,,,201 N Olive St,,Farmland,IN,47340-9697,US,,,,jukirklin@yahoo.com,1,14670848,,,jukirklin@yahoo.com
+Tom and Pam Kistler,Kistler,,Tom,,Kistler,8/24/1947,,,,Pam,,Kistler,1/28/1947,,,,,,,,,,,,,,,6770 S Hughes Rd,,Muncie,IN,47302-9666,US,,,,littletommiek@hotmail.com,1,14670889,,,littletommiek@hotmail.com
+Jack Klingensmith,Klingensmith,,Jack,,Klingensmith,10/16/1925,,,,,,,,,,,,,,,,,,,,,,4320 N Walnut St,,Muncie,IN,47303-1162,US,,,765-730-4325,smilingk7@aol.com,1,14670953,,765-730-4325,smilingk7@aol.com
+Karyn Kruger-Wallace and William Wallace,Kruger-Wallace,,Karyn,,Kruger-Wallace,,,,,William,,Wallace,,,,,,,,,,,,,,,,2008 N Riley Rd,,Muncie,IN,47304-2569,US,,,765-284-8211,kkruger68@comcast.net,1,14670994,,765-284-8211,kkruger68@comcast.net
+Stephen Lafollette,Lafollette,,Stephen,,Lafollette,,,,,,,,,,,,,,,,,,,,,,,8898 S County Road 200 E,,Muncie,IN,47302-9654,US,,,,,1,37864054,,,
+Jan Largent,Largent,,Jan,,Largent,,,,,,,,,,,,,,,,,,,,,,,3400 W Riggin Rd,Unit 28,Muncie,IN,47304,US,,,765-741-8797,,1,17468017,,765-741-8797,
+Kim Lee,Lee,,Kim,,Lee,5/22/1972,,,,,,,,,,,,,,,,,,,,,,7804 W Key Dr.,,Muncie,IN,47304,US,,,765-716-5229,,1,14671033,,765-716-5229,
+Dan and Ella Lemen,Lemen,,Dan,,Lemen,3/26/1942,,,,Ella,Ella Mae,Lemen,9/21/1945,,,,,,,,,,,,,,,204 N Talamore Ave,,Yorktown,IN,47396,US,,,,,1,14629528,,,
+Jeffrey and April Lemen,Lemen,,Jeffrey,,Lemen,,,,,April,,Lemen,,,,,,,,,,,,,,,,8505 N Glacier Dr,,Muncie,IN,47303-9390,US,,,,,1,14933481,,,
+Martin and Kimberly Lewis,Lewis,,Martin,,Lewis,1/30/1975,,,,Kimberly,,Lewis,9/14/1977,,,,,,,,,,,,,,,3000 S Beech St,,Yorktown,IN,47396-9442,US,,,765-729-3933,,1,32999834,,765-729-3933,
+Susan Londt,Londt,,Dennis,,Londt,3/28/1953,,,,Susan,,Londt,4/15/1955,,,,,,,,,,,,,,,3511 N Royal Oak Dr,,Muncie,IN,47304-2032,US,,,765-631-3254,sclondt@comcast.net,1,14671077,,765-631-3254,sclondt@comcast.net
+Marge Manor,Manor,,Marge,,Manor,2/7/1930,,,,,,,,,,,,,,,,,,,,,,1900 S Hemlock Rd,,Muncie,IN,47302-1985,US,,,765-284-2171,,1,14671156,,765-284-2171,
+James and Michelle Martin,Martin,,James,,Martin,11/29/1976,,,,Michelle,,Martin,8/6/1979,,,,,,,,,,,,,,,3205 W Ivy St,,Muncie,IN,47304-4505,US,,,765-729-7968,baronjlm@aol.com,1,31480942,,765-729-7968,baronjlm@aol.com
+Sara Martin,Martin,,Sara,,Martin,11/7/1982,,,,,,,,,,,,,,,,,,,,,,80 E 900 N,Lot 11,Alexandria,IN,46001-8102,US,,,765-407-1628,samartin1982@gmail.com,1,37864024,,765-407-1628,samartin1982@gmail.com
+Chad and Colleen Massoth,Massoth,,Chad,,Massoth,7/29/1979,,,,Colleen,,Massoth,4/6/1983,,,,,,,,,,,,,,,1501 N Magnolia Ln,,Muncie,IN,47304-9643,US,,,765-744-1350,cmassoth1110@yahoo.com,1,14687438,,765-744-1350,cmassoth1110@yahoo.com
+Joy McConnell,McConnell,,Joy,,McConnell,5/5/1950,,,,,,,,,,,,,,,,,,,,,,10330 E Gregory Rd,,Albany,IN,47320-8914,US,,,765-730-2233,,1,14933499,,765-730-2233,
+Willie and Kathryn McCoy,McCoy,,Willie,,McCoy,7/5/1931,,,,Kathryn,,McCoy,,,,,,,,,,,,,,,,12600 W Jackson St,,Yorktown,IN,47396-9288,US,,,765-759-6085,,1,14671208,,765-759-6085,
+Mark and Jan McGregor,McGregor,,Mark,,McGregor,,,,,Jan,,McGregor,,,,,,,,,,,,,,,,10203 E Muncie St.,,Selma,IN,47383,US,,,765-744-4599,,1,14932846,,765-744-4599,
+Muriel Michael,Michael,,Muriel,,Michael,10/16/1925,,,,,,,,,,,,,,,,,,,,,,3900 S Ebright St,,Muncie,IN,47302-5748,US,,,765-289-9138,,1,19278526,,765-289-9138,
+Winola Miller,Miller,,Winola,,Miller,6/18/1917,,,,,,,,,,,,,,,,,,,,,,603 Vierwood,,Muncie,IN,47304,US,,,765-282-5469,,1,14671277,,765-282-5469,
+Gerry Minnick,Minnick,,Gerry,,Minnick,11/30/1930,,,,,,,,,,,,,,,,,,,,,,11760 W Base Rd,,Parker City,IN,47368-9106,US,,,765-625-0646,,1,14671384,,765-625-0646,
+Roger and Julie Morency,Morency,,Roger,,Morency,5/9/1960,,,,Julie,,Morency,12/9/1958,,,,,,,,,,,,,,,7908 W Adare Dr,,Muncie,IN,47304-9430,US,,,765-759-9181,roger.morency@gmail.com,1,14671435,,765-759-9181,roger.morency@gmail.com
+Penny Morris and Dick Stemmer,Morris,,Penny,,Morris,2/21/1954,,,,Dick,,Stemmer,,,,,,,,,,,,,,,,3414 N Linden St,,Muncie,IN,47304-1925,US,,,765-282-2767,,1,14671459,,765-282-2767,
+Bettyanne Morrow,Morrow,,Richard,,Morrow,3/20/1926,,,,Bettyanne,,Morrow,12/3/1929,,,,,,,,,,,,,,,1601 N Morrison Rd,,Muncie,IN,47304-5329,US,,,765-288-4618,,1,14671481,,765-288-4618,
+John and Krista Mulcahy,Mulcahy,,John,,Mulcahy,12/8/1968,,,,Krista,,Mulcahy,8/21/1972,,,,,,,,,,,,,,,9100 W Yorkshire Dr,,Yorktown,IN,47396-1627,US,,,765-216-7198,jmulcahy@bsu.edu ,1,24048849,,765-216-7198,jmulcahy@bsu.edu 
+Arch and Sue Mutter,Mutter,,Arch,,Mutter,9/11/1943,,,,Sue,,Mutter,10/27/1944,,,,,,,,,,,,,,,5600 S Edgewood Dr,,Muncie,IN,47302-9500,US,,,765-284-3069,slawson62@aol.com,1,14671504,,765-284-3069,slawson62@aol.com
+Wilma Neal,Neal,,Wilma,,Neal,6/9/1933,,,,,,,,,,,,,,,,,,,,,,7300 W Nixon Rd,,Yorktown,IN,47396-9635,US,,,765-759-9167,wjeanneal@att.net,1,14671524,,765-759-9167,wjeanneal@att.net
+William Nealy,Nealy,,William,,Nealy,7/11/1991,,,,,,,,,,,,,,,,,,,,,,1904 N Janney Ave,,Muncie,IN,47304-2747,US,,,,,1,37776017,,,
+Kenneth Nicola,Nicola,,Kenneth,Ken,Nicola,4/11/1937,,,,,,,,,,,,,,,,,,,,,,3605 N Chadam Ln,Apt 1D,Muncie,IN,47304-5229,US,,,765-309-2297,knic314@aol.com,1,34478235,,765-309-2297,knic314@aol.com
+Randolph O'Bryant,O'Bryant,,Randolph,,O'Bryant,12/26/1961,,,,,,,,,,,,,,,,,,,,,,816 N Mulberry St,,Muncie,IN,47305-1440,US,,,765-228-8797,,1,23055143,,765-228-8797,
+Bob and Nina Oisten,Oisten,,Bob,,Oisten,1/8/1935,,,,Nina,,Oisten,3/12/1937,,,,,,,,,,,,,,,5501 W Hessler Rd,,Muncie,IN,47304-8965,US,,,765-282-7322,nroisten@gmail.com,2,14671824,,765-282-7322,nroisten@gmail.com
+Matt and Leslie Pannell,Pannell,,Matt,,Pannell,,,,,Leslie,,Pannell,,,,,,,,,,,,,,,,7908 W Heathrow Ln,,Yorktown,IN,47396-6841,US,,,765-730-4515,,1,15848947,,765-730-4515,
+Jane Patton,Patton,,Jane,,Patton,4/25/1934,,,,,,,,,,,,,,,,,,,,,,9305 W Lone Beech Dr,,Muncie,IN,47304-9314,US,,,765-759-8276,janedjp@aol.com,1,14671990,,765-759-8276,janedjp@aol.com
+Helen Peirson,Peirson,,Helen,,Peirson,3/1/1921,,,,,,,,,,,,,,,,,,,,,,1601 N Morrison Rd,,Muncie,IN,47304-5329,US,,,765-284-5038,,1,14672009,,765-284-5038,
+James and Kelli Petroviak,Petroviak,,James,,Petroviak,3/21/1960,,,,Kelli,,Petroviak,6/14/1961,,,,,,,,,,,,,,,1806 N Mockingbird Ln,,Muncie,IN,47304-2806,US,,,765-287-8847,,1,14933511,,765-287-8847,
+Tory and Susan Pierce,Pierce,,Tory,,Pierce,6/27/1973,,,,Susan,Renee,Pierce,3/8/1975,,,,,,,,,,,,,,,3406 W Mansfield Dr,,Muncie,IN,47304-2527,US,,,765-914-3934,samestra@msn.com,1,32701055,,765-914-3934,samestra@msn.com
+Jay and Shirley Pittenger,Pittenger,,Jay,,Pittenger,,,,,Shirley,,Pittenger,7/1/1935,,,,,,,,,,,,,,,3213 W Riggin Rd,,Muncie,IN,47304-1032,US,,,765-282-0632,jpittenger2@juno.com,1,14672114,,765-282-0632,jpittenger2@juno.com
+Arvena Plamowski,Plamowski,,Arvena,,Plamowski,,,,,,,,,,,,,,,,,,,,,,,2805 N Pauline Ave,,Muncie,IN,47303-1778,US,,,765-282-6001,,1,25688942,,765-282-6001,
+Ginny Randall,Randall,,Dick,,Randall,9/15/1949,,,,Ginny,,Randall,8/7/1950,,,,,,,,,,,,,,,4320 N Walnut St,,Muncie,IN,47303-1162,US,,,765-747-8557,,1,14672155,,765-747-8557,
+Virginia Randall,Randall,,Virginia,,Randall,,,,,,,,,,,,,,,,,,,,,,,4320 N Walnut St,,Muncie,IN,47303-1162,US,,,765-747-8557,,1,36747735,,765-747-8557,
+Trent and Susan Randolph,Randolph,,Trent,,Randolph,,,,,Susan,,Randolph,3/24/1978,,,,,,,,,,,,,,,9201 W Millerfield Rd,,Yorktown,IN,47396-1607,US,,,765-759-5883,smrandol@yahoo.com,1,14745048,,765-759-5883,smrandol@yahoo.com
+Melva Ratchford,Ratchford,,Ellis,Bud,Ratchford,,,,,Melva,,Ratchford,8/12/1921,,,,,,,,,,,,,,,5801 W. Bethel Ave,,Muncie,IN,47304,US,,,765-288-0345,,1,14672216,,765-288-0345,
+Robert and Polly Ratchford,Ratchford,,Robert,Bob,Ratchford,3/22/1960,,,,Polly,,Ratchford,9/24/1961,,,,,,,,,,,,,,,7709 W York Prairie Way,,Muncie,IN,47304-9214,US,,,765-759-0977,,1,14672264,,765-759-0977,
+Jake and Lee Reams,Reams,,Jake,,Reams,,,,,Lee,,Reams,,,,,,,,,,,,,,,,1104 N Greenbriar Rd,0,Muncie,IN,47304,US,,,765-288-3244,,1,17468030,,765-288-3244,
+Stephen and Gretchen Reid,Reid,,Stephen,,Reid,10/13/1944,,,,Gretchen,,Reid,5/13/1947,,,,,,,,,,,,,,,2513 W Wellington Dr,,Muncie,IN,47304-1270,US,,,765-289-9176,,1,14672344,,765-289-9176,
+Elijah and Katie Beth Richardson,Richardson,,Elijah,Eli,Richardson,8/15/1983,,,,Katie Beth,,Richardson,3/15/1985,,,,,,,,,,,,,,,104 W 2nd St,,Peru,IN,46970-2157,US,,,765-730-6541,,1,14672382,,765-730-6541,
+Lynnie Richardson,Richardson,,Lynnie,,Richardson,,,,,,,,,,,,,,,,,,,,,,,3738 N Lakeside Dr.,,Muncie,IN,47304,US,,,765-289-3168,,1,17468035,,765-289-3168,
+Donn and Freida Roberts,Roberts,,Donn,,Roberts,10/21/1938,,,,Freida,,Roberts,4/30/1941,,,,,,,,,,,,,,,404 N Greenbriar Rd,,Muncie,IN,47304-3716,US,,,765-282-1568,fndroberts@comcast.net,1,14672412,,765-282-1568,fndroberts@comcast.net
+Keith Roberts and Jennifer Hudson-Roberts,Roberts,,Keith,,Roberts,7/31/1973,,,,Jennifer,,Hudson-Roberts,1/2/1975,,,,,,,,,,,,,,,2700 Ashbrook,,Muncie,IN,47304,US,,,765-286-8296,,1,14672539,,765-286-8296,
+Bradley Rodgers,Rodgers,,Bradley,,Rodgers,11/4/1986,,,,,,,,,,,,,,,,,,,,,,5309 N Hemlock Dr,,Muncie,IN,47304-5754,US,,,,,1,32523030,,,
+David and Kelly Rodriguez,Rodriguez,,David,,Rodriguez,7/6/1990,,,,Kelly,,Rodriguez,1/27/1990,,,,,,,,,,,,,,,2600 N Everbrook Ln,,Muncie,IN,47304-5447,US,,,,,1,32109892,,,
+Rebecca Roland,Roland,,Rebecca,,Roland,,,,,,,,,,,,,,,,,,,,,,,1114 W Waid Ave,,Muncie,IN,47303,US,,,765-284-5142,,1,17468081,,765-284-5142,
+Don and Emma Russel,Russel,,Don,,Russel,,,,,Emma,,Russel,,,,,,,,,,,,,,,,3700 W Petty Rd,,Muncie,IN,47304,US,,,765-286-4772,,1,17468038,,765-286-4772,
+Wesley and Patty Russell,Russell,,Wesley,,Russell,,,,,Patty,,Russell,,,,,,,,,,,,,,,,6151 E Pottery Rd,,Albany,IN,47320-9715,US,,,765-287-8852,prussellrd@comcast.net,1,14733121,,765-287-8852,prussellrd@comcast.net
+Mark and Adrienne Say,Say,,Mark,,Say,,,,,Adrienne,,Say,,,,,,,,,,,,,,,,107 S Gharkey St,,Muncie,IN,47305-1514,US,,,765-631-5342,,1,14979147,,765-631-5342,
+Thomas and Lynn Sciscoe,Sciscoe,,Thomas,,Sciscoe,12/28/1948,,,,Lynn,,Sciscoe,9/25/1948,,,,,,,,,,,,,,,11910 E County Road 500 N,,Albany,IN,47320-9534,US,,,765-789-8018,tnlsciscoe@juno.com,1,14709069,,765-789-8018,tnlsciscoe@juno.com
+Joanne Sewell,Sewell,,Joanne,,Sewell,7/13/1929,,,,Joseph,,Sewell,11/21/1929,,,,,,,,,,,,,,,700 E Linda Lane,,Muncie,IN,47303,US,,,765-282-6588,,1,14709098,,765-282-6588,
+Carolyn Shelton,Shelton,,Carolyn,,Shelton,10/25/1950,,,,,,,,,,,,,,,,,,,,,,1708 W Harvard Ave,,Muncie,IN,47304-2005,US,,,765-282-1438,,1,14709107,,765-282-1438,
+Ernestine Shields,Shields,,Ernestine,,Shields,2/7/1927,,,,,,,,,,,,,,,,,,,,,,3905 E Wilson Rd,,Muncie,IN,47303-6208,US,,,765-284-1429,,1,15309604,,765-284-1429,
+Harry Shrieve,Shrieve,Mr.,Harry,Butch,Shrieve,,,,Mrs.,Pat,,Shrieve,,,,,,,,,,,,,,,,2212 W Norwood Dr,,Muncie,IN,47304-1734,US,,,765-282-0235,,1,24639365,,765-282-0235,
+Darlene Shulze,Shulze,,Fred,,Shulze,8/25/1935,,,,Darlene,,Shulze,5/25/1938,,,,,,,,,,,,,,,500 W Reade Ave,,Upland,IN,46989-1001,US,,,765-998-2672,frshulze@taylor.edu,1,14709116,,765-998-2672,frshulze@taylor.edu
+John and Anna Shunk,Shunk,,John,,Shunk,,,,,Anna,,Shunk,,,,,,,,,,,,,,,,1614 Sequoyah Dr,,Mooresburg,TN,37811-2663,US,,,765-282-3517,ashunk@att.net,1,14932772,,765-282-3517,ashunk@att.net
+Zach and Katie Shutters,Shutters,,Zach,,Shutters,,,,,Katie,,Shutters,1/21/1980,,,,,,,,,,,,,,,1604 N Magnolia Ln,,Muncie,IN,47304-9644,US,,,317-509-1668,kfrench98@yahoo.com ,1,22410398,,317-509-1668,kfrench98@yahoo.com 
+Michael and Maggie Sims,Sims,,Michael,,Sims,,,,,Maggie,,Sims,,,,,,,,,,,,,,,,3600 S County Road 600 W,,Yorktown,IN,47396-9218,US,,,,,1,37248463,,,
+Ann Siverly,Siverly,,Ann,,Siverly,1/26/1952,,,,,,,,,,,,,,,,,,,,,,527 N Shellbark Rd,,Muncie ,IN,47304,US,,,765-284-7405,,1,14709133,,765-284-7405,
+Cynthia and Aaron Smith,Smith,,Cynthia,,Smith,,,,,Aaron,,Smith,,,,,,,,,,,,,,,,803 Gamble Dr,,Heiskell,TN,37754-5128,US,,,828-553-7203,,1,21468944,,828-553-7203,
+Nicole Smith,Smith,,Nicole,,Smith,,,,,,,,,,,,,,,,,,,,,,,7523 Hawk Ct,,Schererville,IN,46375-3371,US,,,812-219-8010,,1,38067710,,812-219-8010,
+James and Cheryl Smothers,Smothers,,James,,Smothers,,,,,Cheryl,,Smothers,,,,,,,,,,,,,,,,3400 W Riggin Rd,Unit 52,Muncie,IN,47304-6169,US,,,765-289-4593,,1,14709174,,765-289-4593,
+Pierce Sommer,Sommer,,Pierce,,Sommer,,,,,,,,,,,,,,,,,,,,,,,422 S Colony,,Yorktown,IN,47396,US,,,,,1,17468113,,,
+Joe and Gayle Songer,Songer,,Joe,,Songer,6/24/1943,,,,Gayle,,Songer,10/16/1944,,,,,,,,,,,,,,,4501 N Wheeling Ave 9A-1,,Muncie,IN,47304-1218,US,,,765-273-7185,munciebase@comcast.net,1,14709202,,765-273-7185,munciebase@comcast.net
+Thomas and Kara St. Myer,St. Myer,,Thomas,,St. Myer,10/29/1978,,,,Kara,,St. Myer,7/12/1979,,,,,,,,,,,,,,,204 N Bayberry Ln,,Muncie,IN,47304-9319,US,,,260 224 5626 ,karastmyer@gmail.com,1,20347182,,260 224 5626 ,karastmyer@gmail.com
+Kim Stassen,Stassen,,Kim,,Stassen,,,,,,,,,,,,,,,,,,,,,,,1104 N Snowmass Ln,,Muncie,IN,47304-5073,US,,,,,1,17058420,,,
+Bill and Loretta Stevens,Stevens,,Bill,,Stevens,,,,,Loretta,,Stevens,,,,,,,,,,,,,,,,525 N Co Rd 650 W,,Yorktown,IN,47396,US,,,765-759-9372,,1,17468044,,765-759-9372,
+Tim and Patty Stigers,Stigers,,Tim,,Stigers,6/18/1948,,,,Patty,,Stigers,1/31/1951,,,,,,,,,,,,,,,804 N Meadow Wood Dr,,Muncie,IN,47304-9351,US,,,765-747-5152,,1,14709260,,765-747-5152,
+Jon and Christine Stinson,Stinson,,Jon,,Stinson,6/6/1966,,,,Christine,,Stinson,,,,,,,,,,,,,,,,1700 E McCormick Dr,,Muncie,IN,47303-9548,US,,,765-289-8154,,1,14732305,,765-289-8154,
+Monty and Nancy Stinson,Stinson,,Monty,,Stinson,9/1/1939,,,,Nancy,,Stinson,9/4/1937,,,,,,,,,,,,,,,3105 W Grace Ln,,Muncie,IN,47304-5760,US,,,765-288-0578,,1,14709309,,765-288-0578,
+Sam Stinson,Stinson,,Sam,,Stinson,9/1/1976,,,,,,,,,,,,,,,,,,,,,,200 N Bayberry Ln,,Muncie,IN,47304-9319,US,,,765-717-4875,,1,14709324,,765-717-4875,
+Susan Stites,Stites,,,,,,,,,Susan,,Stites,,,,,,,,,,,,,,,,7512 Epsilon Dr,,Derwood,MD,20855-2511,US,,,,,1,41282529,,,
+Coppe Stone,Stone,,Coppe,Dale,Stone,1/3/1981,,,,,,,,,,,,,,,,,,,,,,400 E Willard St,,Muncie,IN,47302-3469,US,,,765-254-1660,,1,29375249,,765-254-1660,
+David and Louanna Street,Street,,David,,Street,,,,,Louanna,,Street,,,,,,,,,,,,,,,,9120 E Windsor Rd,,Selma,IN,47383-9665,US,,,765-289-7216,,1,15500370,,765-289-7216,
+Edward Strother,Strother,,Edward,,Strother,10/20/1921,,,,Jeanne,,Strother,,,,,,,,,,,,,,,,4108 W Friar Dr,,Muncie,IN,47304-2480,US,,,765-286-8138,,1,14732317,,765-286-8138,
+Marc and Britney Sue,Sue,,Marc,,Sue,6/12/1985,,,,Britney,,Sue,11/18/1983,,,,,,,,,,,,,,,8212 N Costamesa Rd,,Muncie,IN,47303-9020,US,,,765-716-9073 ,bgarrett@ballstate.bsu.edu ,1,34907316,,765-716-9073 ,bgarrett@ballstate.bsu.edu 
+Florence Swankie,Swankie,,Florence,,Swankie,,,,,,,,,,,,,,,,,,,,,,,3705 W Peachtree Ln,,Muncie,IN,47304-4245,US,,,765-288-3997,,1,15444347,,765-288-3997,
+Ryan Swayer,Swayer,,Ryan,,Swayer,2/6/1991,,,,,,,,,,,,,,,,,,,,,,1136 N 8th St,,Mitchell,IN,47446-8006,US,,,812-653-1174,rjswayer@gmail.com,1,35821770,,812-653-1174,rjswayer@gmail.com
+Mark and Marsha Thurston,Thurston,,Mark,,Thurston,,,,,Marsha,,Thurston,,,,,,,,,,,,,,,,12051 W River Rd,,Yorktown,IN,47396-9209,US,,,,,1,36011253,,,
+Anson Tooley,Tooley,,Anson,,Tooley,10/17/1937,,,,,,,,,,,,,,,,,,,,,,4010 E County Road 450 N,,Muncie,IN,47303-9144,US,,,765-282-5033,,1,14732337,,765-282-5033,
+Bill and Barbara Turner,Turner,,Bill,,Turner,1/31/1931,,,,Barbara,,Turner,8/21/1932,,,,,,,,,,,,,,,5709 E Carolyn Dr,,Muncie,IN,47303-4422,US,,,765-282-2806,bilbar1@att.net,1,14732358,,765-282-2806,bilbar1@att.net
+Larry and Mary Van Deventer,Van Deventer,,Larry,,Van Deventer,8/25/1946,,,,Mary,,Van Deventer,9/27/1949,,,,,,,,,,,,,,,4141 S Whitney Rd,,Selma,IN,47383-9690,US,,,765-284-6360,lvandev2@comcast.net,1,14732368,,765-284-6360,lvandev2@comcast.net
+Bryan and Marsha Venable,Venable,,Bryan,,Venable,,,,,Marsha,,Venable,1/10/1964,,,,,,,,,,,,,,,8600 Teal Dr,,Yorktown,IN,47396-9492,US,,,765-759-3835,,1,17770866,,765-759-3835,
+Kerry and Michelle Vore,Vore,,Kerry,,Vore,,,,,Michelle,,Vore,,,,,,,,,,,,,,,,4100 E Gregory Rd,,Eaton,IN,47338-8916,US,,,,,1,35858582,,,
+Joe Walker and Dawn Smith,Walker,,Joe,,Walker,,,,,Dawn,,Smith,,,,,,,,,,,,,,,,3601 W Cty Rd 900 N,,Gaston,IN,47342,US,,,765-358-4714,,1,14977498,,765-358-4714,
+Gene and Patti Warner,Warner,,Gene,,Warner,9/18/1930,,,,Patti,,Warner,5/29/1933,,,,,,,,,,,,,,,7312 W Saint Andrews Ave,,Yorktown,IN,47396-9695,US,,,765-759-7940,eewarner7312@comcast.net,1,14732375,,765-759-7940,eewarner7312@comcast.net
+Marsena Washburn,Washburn,,Marsena,,Washburn,11/13/1935,,,,,,,,,,,,,,,,,,,,,,9004 W Lone Beech Dr,,Muncie,IN,47304-9334,US,,,765-759-8762,songlady2000@aol.com,1,14732388,,765-759-8762,songlady2000@aol.com
+Randy Washburn,Washburn,,Randy,,Washburn,6/11/1957,,,,,,,,,,,,,,,,,,,,,,303 S Proud St,,Muncie,IN,47305-2270,US,,,765-288-0559,,1,18085483,,765-288-0559,
+Shane and Lisa Welling,Welling,,Shane,,Welling,,,,,Lisa,,Welling,,,,,,,,,,,,,,,,211 S Mulberry St,,Farmland,IN,47340-9112,US,,,,,1,17468127,,,
+Rema Whitaker,Whitaker,,Rema,,Whitaker,,,,,,,,,,,,,,,,,,,,,,,4 Bay Pt,,Battle Creek,MI,49015,US,,,269-962-0602,,1,15799313,,269-962-0602,
+Jerry and Pam Williams,Williams,,Jerry,,Williams,,,,,Pam,,Williams,2/5/1948,,,,,,,,,,,,,,,704 N Meadow Wood Dr,,Muncie,IN,47304-8926,US,,,765-896-9849,,1,15902885,,765-896-9849,
+Mildred Wilson,Wilson,,Mildred,,Wilson,,,,,,,,,,,,,,,,,,,,,,,3712 W Ewing,,Muncie,IN,47302,US,,,765-282-6381,,1,17468075,,765-282-6381,
+Chris and Janis Wright,Wright,,Chris,,Wright,,,,,Janis,,Wright,,,,,,,,,,,,,,,,2304 N Allison Rd,,Muncie,IN,47304-2460,US,,,765-287-8298,janiswright@comcast.net,1,24599768,,765-287-8298,janiswright@comcast.net
+Lori Wright,Wright,,Lori,,Wright,,,,,,,,,,,,,,,,,,,,,,,304 S Normandy Dr,,Muncie,IN,47304-4327,US,,,765-286-7020,,1,14924250,,765-286-7020,
+Marjorie Wright,Wright,,Dean,,Mills,,,,,Marjorie,,Wright,1/18/1931,,,,,,,,,,,,,,,4612 N Hereford Dr,,Muncie,IN,47304-1237,US,,,765-282-5534,,1,14671312,,765-282-5534,
+Barbara Young,Young,,Barbara,,Young,,,,,,,,,,,,,,,,,,,,,,,9205 W High St,,Yorktown,IN,47396-1213,US,,,765-759-5310,,1,14933540,,765-759-5310,

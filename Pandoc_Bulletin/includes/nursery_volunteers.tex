@@ -1,0 +1,41 @@
+\csvnames{nursery_today}{Date=\toddate,Early_Crib=\ecrib,Late_Crib=\lcrib,Early_Toddler=\etod,Late_Toddler=\ltod, }
+
+\csvreader[nursery_today]{this_week.csv}{}{\subsection{Nursery Volunteers \toddate}%
+\label{nurseryvolunteers}
+
+\normalsize{Thank you to all the volunteers who make childcare possible at First Baptist Church}
+
+\begin{tabular}{@{}ll}
+\textsc{EC} & \ecrib \\
+\textsc{ET} & \etod \\
+\textsc{LC} & \lcrib \\
+\textsc{LT} & \ltod \\
+\end{tabular}
+
+\begin{tabular}{@{}lllll}
+Codes: & \small\textsc{E} Early & \small\textsc{L} Late & \small\textsc{C} Crib & \small\textsc{T} Toddler
+\end{tabular}
+
+}
+
+\csvreader[nursery_today]{next_week.csv}{}{\subsection{Nursery Volunteers \toddate}%
+\label{nurseryvolunteers}
+
+\begin{tabular}{@{}ll}
+\textsc{EC} & \ecrib \\
+\textsc{ET} & \etod \\
+\textsc{LC} & \lcrib \\
+\textsc{LT} & \ltod \\
+\end{tabular}
+
+\begin{tabular}{@{}lllll}
+Codes: & \small\textsc{E} Early & \small\textsc{L} Late & \small\textsc{C} Crib & \small\textsc{T} Toddler
+\end{tabular}
+
+}
+
+\small{If you would be interested in serving in the Nursery Ministry please contact Colleen Massoth at 765-744-1350 \\ or \texttt{cmassoth1110@yahoo.com}. Also, be sure to check out the updated schedule at \texttt{http://bit.ly/fbc-nursery} to see when you are scheduled next.}
+
+\normalsize{}
+
+ \vfill 
