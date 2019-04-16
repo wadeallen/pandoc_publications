@@ -1,35 +1,38 @@
-\csvnames{nursery_today}{Date=\toddate,Early_Crib=\ecrib,Late_Crib=\lcrib,Early_Toddler=\etod,Late_Toddler=\ltod, }
+\csvnames{nursery_today}{Date=\toddate,Late_Crib=\lcrib,Early_Toddler=\etod,Late_Toddler=\ltod,Childrens_Church=\cchurch,Preschool=\preschool, }
 
-\csvreader[nursery_today]{this_week.csv}{}{\subsection{Nursery Volunteers \toddate}%
+\subsection{Children's Ministry Volunteers}
+\normalsize{Thank you to all the volunteers who make Children's Ministry possible at First Baptist Church}
+
+\printyearoff
+
+\csvreader[nursery_today]{this_week.csv}{}{\textbf{Today, \printdate{\toddate}}%
 \label{nurseryvolunteers}
 
-\normalsize{Thank you to all the volunteers who make childcare possible at First Baptist Church}
 
 \begin{tabular}{@{}ll}
-\textsc{EC} & \ecrib \\
-\textsc{ET} & \etod \\
+\textsc{E} & \etod \\
 \textsc{LC} & \lcrib \\
 \textsc{LT} & \ltod \\
-\end{tabular}
-
-\begin{tabular}{@{}lllll}
-Codes: & \small\textsc{E} Early & \small\textsc{L} Late & \small\textsc{C} Crib & \small\textsc{T} Toddler
+\textsc{CC} & \cchurch \\
+\textsc{P} & \preschool \\
 \end{tabular}
 
 }
 
-\csvreader[nursery_today]{next_week.csv}{}{\subsection{Nursery Volunteers \toddate}%
+\csvreader[nursery_today]{next_week.csv}{}{\textbf{Next Week, \printdate{\toddate}}%
 \label{nurseryvolunteers}
 
 \begin{tabular}{@{}ll}
-\textsc{EC} & \ecrib \\
-\textsc{ET} & \etod \\
+\textsc{E} & \etod \\
 \textsc{LC} & \lcrib \\
 \textsc{LT} & \ltod \\
+\textsc{CC} & \cchurch \\
+\textsc{P} & \preschool \\
 \end{tabular}
 
-\begin{tabular}{@{}lllll}
-Codes: & \small\textsc{E} Early & \small\textsc{L} Late & \small\textsc{C} Crib & \small\textsc{T} Toddler
+\begin{tabular}{@{}llllll}
+  Codes: & \small\textsc{E} Early Nursery &  \small\textsc{LC} Late Crib &  \small\textsc{LT} Late Toddler \\
+         & \multicolumn{2}{l}{\small\textsc{CC} Children's Church} & \small\textsc{P} Preschool
 \end{tabular}
 
 }

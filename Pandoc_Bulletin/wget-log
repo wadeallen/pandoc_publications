@@ -1,0 +1,12 @@
+--2015-12-02 10:12:40--  https://docs.google.com/document/d/1pqVUPNIRVxPRoO-lqGPDlAuJ-qGCE5BT7qOT72u-EDQ/export?format=txt
+Resolving docs.google.com... 2607:f8b0:4009:809::200e, 216.58.216.206
+Connecting to docs.google.com|2607:f8b0:4009:809::200e|:443... failed: Operation timed out.
+Connecting to docs.google.com|216.58.216.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: 'Bulletin.txt'
+
+     0K ......                                                  315K=0.02s
+
+2015-12-02 10:13:02 (315 KB/s) - 'Bulletin.txt' saved [6657]
+

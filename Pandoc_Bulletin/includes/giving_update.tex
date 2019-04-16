@@ -1,11 +1,18 @@
-\subsection{Giving Update}
+\vspace{\fill}
+
+\section{Giving Update}
 \label{givingupdate}
 
+\DTLloaddb{numbers}{numbers.csv}
  
 \begin{tabular}{@{}ll}
-As of \givingupdatedate \\
-Income YTD & \$\income \\
-Expense YTD & \$\expense \\
+As of \DTLfetch{numbers}{description}{date}{data}\\
+Income YTD & \$\DTLfetch{numbers}{description}{income}{data}\\
+Expense YTD & \$\DTLfetch{numbers}{description}{expense}{data}\\
 \end{tabular}
 
-\vfill 
+We now have \$\DTLfetch{numbers}{description}{legacy-collected}{data} contributed to the Legacy Campaign out of our \$\DTLfetch{numbers}{description}{pledged}{data} pledged. This leaves \$\DTLfetch{numbers}{description}{legacy-left}{data} to be collected.
+
+We have given \$\DTLfetch{numbers}{description}{missions}{data} this year to local, national, and worldwide ministries as of \DTLfetch{numbers}{description}{date}{data}.
+
+\vspace{\fill}
